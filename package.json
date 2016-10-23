@@ -1,0 +1,31 @@
+{
+  "name": "nwko",
+  "version": "0.0.1",
+  "description": "An NPM Module designed to use numerous APIS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekonez/nwko.git"
+  },
+  "keywords": [
+    "anime",
+    "library",
+    "api",
+    "otaku",
+    "weeb"
+  ],
+  "author": "nekonez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekonez/nwko/issues"
+  },
+  "homepage": "https://github.com/nekonez/nwko#readme",
+  "dependencies": {
+    "json-beautify": "^1.0.1",
+    "request": "^2.75.0",
+    "request-promise-any": "^1.0.3"
+  }
+}
